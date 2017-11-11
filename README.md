@@ -34,7 +34,7 @@
 ## 参考链接
 [按需资源](https://developer.apple.com/library/content/documentation/FileManagement/Conceptual/On_Demand_Resources_Guide/index.html#//apple_ref/doc/uid/TP40015083-CH2-SW1)
 
-[苹果官网瘦身指引](https://developer.apple.com/library/content/qa/qa1795/_index.html)
+[Reducing the size of my App](https://developer.apple.com/library/content/qa/qa1795/_index.html)
  
 [iOS微信安装包瘦身](https://mp.weixin.qq.com/s?__biz=MzAwNDY1ODY2OQ==&mid=207986417&idx=1&sn=77ea7d8e4f8ab7b59111e78c86ccfe66&3rd=MzA3MDU4NTYzMw==&scene=6#rd)
 ![](http://www.zoomfeng.com/images/2016/10/12/4.png)  
