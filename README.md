@@ -8,7 +8,7 @@
 	- 未使用的图片、音频、视频、plist文件等
 	- @1x的图片
  - 资源压缩
-   - 图片的无损/有损压缩（ImagOptim压缩工具、https://tinypng.com、UI设计师出图的时候尽量使用8位图）
+   - 图片的无损/有损压缩（ImagOptim压缩工具、https://tinypng.com、 UI设计师出图的时候尽量使用8位图）
    - 音频压缩（降低采样率，通常情况下44KHZ就够用了）
    - 使用Assets.xcassets来管理图片
 
