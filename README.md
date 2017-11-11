@@ -14,13 +14,13 @@
 
 ## Xcode's Link Map File
  
-   - 在Xcode9中设置 LD_ GENERATE_ MAP_ FILE选项为YES就可以在对应路径中看到LinkMap文件，LinkMap文件是Xcode产生可执行文件的同时生成的链接信息，用来描述可执行文件的构造成分，包括代码段（__ TEXT）和数据段（__ DATA）的分布情况，进而查看可执行文件的占用大小。
+   - 在Xcode9中设置 LD_ GENERATE_ MAP_ FILE选项为YES就可以在对应路径中看到LinkMap文件，LinkMap文件是Xcode产生可执行文件的同时生成的链接信息，用来描述可执行文件的构造成分，包括代码段（__TEXT）和数据段（__DATA）的分布情况，进而查看可执行文件的占用大小。
 
    
 ## 可执行文件瘦身
  - 去除未使用的第三方库
  - 整理重复的第三方库（例：图片浏览器等）
- - 去除未使用的代码（第三方工具simian扫描，DEAD _CODE _STRIPPING =YES）
+ - 去除未使用的代码（第三方工具simian扫描，DEAD_CODE_STRIPPING =YES）
    - 未使用的类
    - 未使用的方法/函数
  - 尽量少的使用属性（减少setter和getter）
