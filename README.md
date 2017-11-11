@@ -3,7 +3,7 @@
 
 
 ## 资源瘦身
- - 删除无用资源（https://github.com/jeffhodnett/Unused）
+ - 删除无用资源（https://github.com/jeffhodnett/Unused 、https://github.com/tinymind/LSUnusedResources/）
    - 重复的图片（图片名字一样、名字不一样但文件一样）
 	- 未使用的图片、音频、视频、plist文件等
 	- @1x的图片
