@@ -20,7 +20,7 @@
 ## 可执行文件瘦身
  - 去除未使用的第三方库
  - 整理重复的第三方库（例：图片浏览器等）
- - 去除未使用的代码（第三方工具simian扫描(http://www.harukizaemon.com/simian/get_it_now.html)，DEAD_CODE_STRIPPING =YES）
+ - 去除未使用的代码（第三方工具simian扫描(http://www.harukizaemon.com/simian/get_it_now.html)，  DEAD_CODE_STRIPPING =YES）
    - 未使用的类
    - 未使用的方法/函数
  - 尽量少的使用属性（减少setter和getter）
